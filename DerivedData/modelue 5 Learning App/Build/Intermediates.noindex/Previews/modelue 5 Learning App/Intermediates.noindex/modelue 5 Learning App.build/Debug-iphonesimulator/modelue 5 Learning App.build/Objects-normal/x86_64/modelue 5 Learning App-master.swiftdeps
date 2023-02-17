@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "7714026029920b09b452f7673b49b04be821402d4bb8a0f3c8fc2db1c4b0ad06"
+build_start_time: [1676667330, 379063129]
+build_end_time: [1676667337, 522019863]
+inputs:
+  ? "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/modelue 5 Learning App/LearningApp.swift"
+  : [1676667022, 909368515]
+  ? "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/modelue 5 Learning App/View/HomeView.swift"
+  : [1676667282, 278084754]
+  ? "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/modelue 5 Learning App/ViewModel/ContentModel.swift"
+  : [1676667022, 896952390]

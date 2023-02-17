@@ -1,0 +1,58 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "c6b98fad01a4b44cab12d96edafca5a9e8565d9b8aa40db715dd6bf549a48703"
+    }
+  ],
+  "containerPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/modelue 5 Learning App.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/juanmeneses/Desktop/CODE WITH CHRIS FINAL ATTEMPT /Module 3/modelue 5 Learning App/DerivedData/modelue 5 Learning App/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

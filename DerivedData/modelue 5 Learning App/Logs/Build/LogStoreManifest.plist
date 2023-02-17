@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>07A99D49-A7CD-4A03-BB5B-CE6308B1C797</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>07A99D49-A7CD-4A03-BB5B-CE6308B1C797.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359822.91905296</real>
+			<key>timeStoppedRecording</key>
+			<real>698359823.88622296</real>
+			<key>title</key>
+			<string>Build modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>07A99D49-A7CD-4A03-BB5B-CE6308B1C797</string>
+		</dict>
+		<key>1BF1C861-254D-437F-A643-C7C03E7BF890</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BF1C861-254D-437F-A643-C7C03E7BF890.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360082.28884399</real>
+			<key>timeStoppedRecording</key>
+			<real>698360083.33014297</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>1BF1C861-254D-437F-A643-C7C03E7BF890</string>
+		</dict>
+		<key>1D330B70-9E1B-40EA-8156-B2D1AB3F2D2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1D330B70-9E1B-40EA-8156-B2D1AB3F2D2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359727.95970798</real>
+			<key>timeStoppedRecording</key>
+			<real>698359728.05357003</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>1D330B70-9E1B-40EA-8156-B2D1AB3F2D2E</string>
+		</dict>
+		<key>3D6461E4-F06D-4727-9463-EEB463EDB67A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D6461E4-F06D-4727-9463-EEB463EDB67A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360060.39869797</real>
+			<key>timeStoppedRecording</key>
+			<real>698360060.82206702</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>3D6461E4-F06D-4727-9463-EEB463EDB67A</string>
+		</dict>
+		<key>4AF16F25-0691-40C9-83C8-70D1505B5177</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AF16F25-0691-40C9-83C8-70D1505B5177.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359773.34897399</real>
+			<key>timeStoppedRecording</key>
+			<real>698359774.27480602</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>4AF16F25-0691-40C9-83C8-70D1505B5177</string>
+		</dict>
+		<key>4FC17A34-7FE8-4D48-A070-6FE851F5254E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4FC17A34-7FE8-4D48-A070-6FE851F5254E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359681.76597703</real>
+			<key>timeStoppedRecording</key>
+			<real>698359682.61815202</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>4FC17A34-7FE8-4D48-A070-6FE851F5254E</string>
+		</dict>
+		<key>522CB241-B4B1-4CBA-AD22-39134FF96F43</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>522CB241-B4B1-4CBA-AD22-39134FF96F43.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359735.46725798</real>
+			<key>timeStoppedRecording</key>
+			<real>698359735.56574702</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>522CB241-B4B1-4CBA-AD22-39134FF96F43</string>
+		</dict>
+		<key>57552485-CA31-4B53-B53A-3B74D337D700</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57552485-CA31-4B53-B53A-3B74D337D700.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360132.03119898</real>
+			<key>timeStoppedRecording</key>
+			<real>698360137.63351703</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>57552485-CA31-4B53-B53A-3B74D337D700</string>
+		</dict>
+		<key>5A68E6C0-6509-4300-B2F4-1F6788B9401B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5A68E6C0-6509-4300-B2F4-1F6788B9401B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359483.90311503</real>
+			<key>timeStoppedRecording</key>
+			<real>698359490.24949801</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>5A68E6C0-6509-4300-B2F4-1F6788B9401B</string>
+		</dict>
+		<key>6147ECF0-CE32-4853-9967-F290C69447ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6147ECF0-CE32-4853-9967-F290C69447ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360128.41255796</real>
+			<key>timeStoppedRecording</key>
+			<real>698360137.53645694</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>6147ECF0-CE32-4853-9967-F290C69447ED</string>
+		</dict>
+		<key>64A38743-047B-44C4-9C00-8FF4E8B4B028</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64A38743-047B-44C4-9C00-8FF4E8B4B028.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360065.39048302</real>
+			<key>timeStoppedRecording</key>
+			<real>698360065.85495198</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>64A38743-047B-44C4-9C00-8FF4E8B4B028</string>
+		</dict>
+		<key>A118C8E8-CA55-4F9B-80DC-A9FD52809968</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A118C8E8-CA55-4F9B-80DC-A9FD52809968.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360054.20655799</real>
+			<key>timeStoppedRecording</key>
+			<real>698360054.62592602</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>A118C8E8-CA55-4F9B-80DC-A9FD52809968</string>
+		</dict>
+		<key>A6D6399D-104E-484E-BB78-7FD01F0D12BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A6D6399D-104E-484E-BB78-7FD01F0D12BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360033.48275197</real>
+			<key>timeStoppedRecording</key>
+			<real>698360033.89020503</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>A6D6399D-104E-484E-BB78-7FD01F0D12BE</string>
+		</dict>
+		<key>B960F0AF-B4B7-4F7E-A815-9A2FA96DA18A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B960F0AF-B4B7-4F7E-A815-9A2FA96DA18A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359611.39381504</real>
+			<key>timeStoppedRecording</key>
+			<real>698359612.54427099</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>B960F0AF-B4B7-4F7E-A815-9A2FA96DA18A</string>
+		</dict>
+		<key>BFA27BCF-8CE9-4F64-B05D-2CC171095D1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFA27BCF-8CE9-4F64-B05D-2CC171095D1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359684.25489998</real>
+			<key>timeStoppedRecording</key>
+			<real>698359684.37836206</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>BFA27BCF-8CE9-4F64-B05D-2CC171095D1C</string>
+		</dict>
+		<key>C18F5C49-EB2E-4E3D-8F15-DCE74DA75DB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C18F5C49-EB2E-4E3D-8F15-DCE74DA75DB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360005.39374197</real>
+			<key>timeStoppedRecording</key>
+			<real>698360005.88581395</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>C18F5C49-EB2E-4E3D-8F15-DCE74DA75DB5</string>
+		</dict>
+		<key>D10F0E13-13B0-4F46-9672-8D25B431394C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D10F0E13-13B0-4F46-9672-8D25B431394C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360030.37307596</real>
+			<key>timeStoppedRecording</key>
+			<real>698360030.77816403</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>D10F0E13-13B0-4F46-9672-8D25B431394C</string>
+		</dict>
+		<key>E7C63846-036A-4BE9-991F-A6804BB87BBB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E7C63846-036A-4BE9-991F-A6804BB87BBB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698360076.39777005</real>
+			<key>timeStoppedRecording</key>
+			<real>698360076.85467398</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>E7C63846-036A-4BE9-991F-A6804BB87BBB</string>
+		</dict>
+		<key>E97430A5-A53F-479F-BA29-CFD7594B1DE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E97430A5-A53F-479F-BA29-CFD7594B1DE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>modelue 5 Learning App project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>modelue 5 Learning App</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>timeStartedRecording</key>
+			<real>698359635.90995097</real>
+			<key>timeStoppedRecording</key>
+			<real>698359636.79538906</real>
+			<key>title</key>
+			<string>Build for Previews modelue 5 Learning App</string>
+			<key>uniqueIdentifier</key>
+			<string>E97430A5-A53F-479F-BA29-CFD7594B1DE1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
